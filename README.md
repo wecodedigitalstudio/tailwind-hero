@@ -1,7 +1,7 @@
 # Welcome to Tailwind Hero!
 
 ## Hero section development using Tailwind CSS
-A utility-first CSS framework for rapidly building custom designs.
+A utility-first CSS framework for rapidly building custom designs: https://tailwindcss.com
 
 To get started:
 
