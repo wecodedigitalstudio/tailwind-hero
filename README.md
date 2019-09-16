@@ -6,6 +6,6 @@ To get started:
 
     `npm i`
 
-2. Start the development server:
+2. Start dev server:
 
     `npm run serve`
