@@ -1,1 +1,1 @@
-# tailwind-hero
+# Welcome to Tailwind Hero!
