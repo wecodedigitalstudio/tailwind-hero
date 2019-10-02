@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.ball {
+    clip-path: circle(70% at 70% 70%);
+    height: 34rem;
+    width: 34rem;
+    background-color: #14FFEC;
+}
