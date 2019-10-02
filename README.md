@@ -12,3 +12,5 @@ To get started:
 2. Start dev server:
 
     `npm run serve`
+
+![alt text](http://url/to/img.png)
