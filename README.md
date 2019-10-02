@@ -13,4 +13,4 @@ To get started:
 
     `npm run serve`
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/wecodedigitalstudio/tailwind-hero/blob/master/mockup.png)
