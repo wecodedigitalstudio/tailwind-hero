@@ -13,4 +13,6 @@ To get started:
 
     `npm run serve`
 
+3. Result:
+
 ![alt text](https://github.com/wecodedigitalstudio/tailwind-hero/blob/master/mockup.png)
