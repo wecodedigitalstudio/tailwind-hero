@@ -14,3 +14,5 @@ To get started:
 3. Result:
 
 ![alt text](https://github.com/wecodedigitalstudio/tailwind-hero/blob/master/mockup.png)
+
+4. Happy Coding!
