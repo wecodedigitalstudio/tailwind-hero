@@ -5,8 +5,9 @@ module.exports = {
       'secondary': ['Menlo'],
     },
     fontSize: {
-      'h1': '55px',
-      'h5': '30px'
+      'h1': '52px',
+      'h3': '26px',
+      'h5': '22px',
     } 
   },
   variants: {},
